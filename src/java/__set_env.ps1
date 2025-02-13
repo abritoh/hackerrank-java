@@ -1,0 +1,1 @@
+ $env:OUTPUT_PATH="output.txt"
